@@ -1,11 +1,10 @@
 # Hi, I'm Anastasiia
 
-<a href="https://www.linkedin.com/in/flexis-kivi/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Anastasiia | LinkedIn" width="21px"/></a>
-
----
-
 I’m an **Industrial Management and Engineering** student at **Metropolia University of Applied Sciences (AMK)**, specializing in the **ICT track**.  
 My main interests lie in **Data Analytics** and **Management**, where I enjoy exploring how data-driven insights can improve business decisions and operations.
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/flexis-kivi/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Anastasiia | LinkedIn" width="21px"/></a>
 
 ## Featured Repositories
 

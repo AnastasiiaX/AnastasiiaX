@@ -2,6 +2,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/flexis-kivi/)
 
+<a href=”https://www.linkedin.com/in/flexis-kivi/"><img align=”left” src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 I’m an **Industrial Management and Engineering** student at **Metropolia University of Applied Sciences (AMK)**, specializing in the **ICT track**.  
 My main interests lie in **Data Analytics** and **Management**, where I enjoy exploring how data-driven insights can improve business decisions and operations.
 

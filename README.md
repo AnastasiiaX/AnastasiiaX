@@ -1,5 +1,7 @@
 # Hi, I'm Anastasiia
 
+[LinkedIn](https://www.linkedin.com/in/flexis-kivi/)
+
 I’m an **Industrial Management and Engineering** student at **Metropolia University of Applied Sciences (AMK)**, specializing in the **ICT track**.  
 My main interests lie in **Data Analytics** and **Management**, where I enjoy exploring how data-driven insights can improve business decisions and operations.
 
@@ -17,7 +19,3 @@ Supervised learning models including XGBoost regression and Random Forest classi
 - Machine Learning & Statistical Modeling  
 - Python, Pandas, Scikit-learn, XGBoost  
 - Data-driven Management Practices
-
-## Let’s Connect
-
-[LinkedIn](https://www.linkedin.com/in/flexis-kivi/)

@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Anastasiia
+# Hi, I'm Anastasiia
 
 I’m an **Industrial Management and Engineering** student at **Metropolia University of Applied Sciences (AMK)**, specializing in the **ICT track**.  
 My main interests lie in **Data Analytics** and **Management**, where I enjoy exploring how data-driven insights can improve business decisions and operations.
 
 ---
 
-## 🚀 Featured Repositories
+## Featured Repositories
 
 ### [NewYorkTimes_unsupervised_learning](https://github.com/AnastasiiaX/NewYorkTimes_unsupervised_learning)  
 Topic modeling and clustering of The New York Times articles using unsupervised machine learning techniques like LDA and K-means to uncover hidden themes in news content.
@@ -15,7 +15,7 @@ Supervised learning models including XGBoost regression and Random Forest classi
 
 ---
 
-## 🧠 Skills & Interests
+## Skills & Interests
 
 - Data Analytics & Visualization  
 - Machine Learning & Statistical Modeling  
@@ -24,6 +24,6 @@ Supervised learning models including XGBoost regression and Random Forest classi
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 [LinkedInL](https://www.linkedin.com/in/flexis-kivi/)

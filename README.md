@@ -5,6 +5,7 @@ My main interests lie in **Data Analytics** and **Management**, where I enjoy ex
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/flexis-kivi/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Anastasiia | LinkedIn" width="21px"/></a>
+</br>
 
 ## Featured Repositories
 

@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Anastasiia
 
-<!--
-**AnastasiiaX/AnastasiiaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Industrial Management and Engineering** student at **Metropolia University of Applied Sciences (AMK)**, specializing in the **ICT track**.  
+My main interests lie in **Data Analytics** and **Management**, where I enjoy exploring how data-driven insights can improve business decisions and operations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Repositories
+
+### [NewYorkTimes_unsupervised_learning](https://github.com/AnastasiiaX/NewYorkTimes_unsupervised_learning)  
+Topic modeling and clustering of The New York Times articles using unsupervised machine learning techniques like LDA and K-means to uncover hidden themes in news content.
+
+### [airbnb-berlin-munich-price-modeling](https://github.com/AnastasiiaX/airbnb-berlin-munich-price-modeling)  
+Supervised learning models including XGBoost regression and Random Forest classification for Airbnb price prediction based on quarterly data from Berlin and Munich.
+
+---
+
+## 🧠 Skills & Interests
+
+- Data Analytics & Visualization  
+- Machine Learning & Statistical Modeling  
+- Python, Pandas, Scikit-learn, XGBoost  
+- Data-driven Management Practices
+
+---
+
+## 📫 Let’s Connect
+
+[LinkedInL](https://www.linkedin.com/in/flexis-kivi/)

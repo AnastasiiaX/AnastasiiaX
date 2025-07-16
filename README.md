@@ -18,19 +18,21 @@ I’m also **ITIL® certified**, demonstrating my understanding of IT service ma
 - 🧹 Data Cleaning & Preprocessing  
 - 📈 Business Intelligence & Insights 
 
-## 📝 Featured Repositories
+## 📝 Data Analytics projects
 
-### [airbnb-berlin-munich-price-modeling](https://github.com/AnastasiiaX/airbnb-berlin-munich-price-modeling)  #Data_Analytics
+### [airbnb-berlin-munich-price-modeling](https://github.com/AnastasiiaX/airbnb-berlin-munich-price-modeling)
 Supervised learning models including XGBoost regression and Random Forest classification for Airbnb price prediction based on quarterly data from Berlin and Munich.
 
-### [helsinki-services-and-demographics](https://github.com/AnastasiiaX/helsinki-services-and-demographics)  #Data_Analytics
+### [helsinki-services-and-demographics](https://github.com/AnastasiiaX/helsinki-services-and-demographics)
 A study on Helsinki's service availability and its impact on the demographics of different residential areas.
 
-### [NewYorkTimes_unsupervised_learning](https://github.com/AnastasiiaX/NewYorkTimes_unsupervised_learning)  #Data_Analytics
+### [NewYorkTimes_unsupervised_learning](https://github.com/AnastasiiaX/NewYorkTimes_unsupervised_learning)
 Topic modeling and clustering of The New York Times articles using unsupervised machine learning techniques like LDA and K-means to uncover hidden themes in news content.
 
-### [slidemind](https://github.com/EmilSuuronen/slidemind)  #Python_Development
+## 💻 Python Development projects
+
+### [slidemind](https://github.com/EmilSuuronen/slidemind)
 Electron and React application for searching PowerPoint and PDF files with AI assist.
 
-### [study_to_sola](https://github.com/AnastasiiaX/study_to_sola)  #Python_Development
+### [study_to_sola](https://github.com/AnastasiiaX/study_to_sola)
 Automated Training Data Transfer Between StudyTube and SolaForce.

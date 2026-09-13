@@ -1,38 +1,71 @@
 # Hi, I'm Anastasiia
 
-I’m an **Industrial Management and Engineering** student at **Metropolia University of Applied Sciences (AMK)**, specializing in the **ICT track**.  
-My main interests lie in **Data Analytics** and **Management**, where I enjoy exploring how data-driven insights can improve business decisions and operations.
+I'm an **Industrial Management and Engineering** graduate from **Metropolia
+University of Applied Sciences**, where I specialised in the **ICT track**.
+My focus is **Data Analytics** and **Management** — how data-driven insight
+improves business decisions and operations.
 
-I’m also **ITIL® certified**, demonstrating my understanding of IT service management and process-driven business support.
+<!-- TODO(owner): confirm whether this is the PeopleCert ITIL Foundation
+     certification or a Metropolia course. If it is the formal certification,
+     restore: "I'm also **ITIL® certified**, demonstrating my understanding of IT
+     service management and process-driven business support." If it was
+     coursework, keep the line below as it stands. Do not leave both. -->
 
-## 🤝 Connect with me:
+I've completed **ITIL service management studies** at Metropolia, covering IT
+service management and process-driven business support.
+
+Working languages: English and Finnish.
+`TODO(owner): adjust this line to your actual level in each — and add Russian or
+any other language you work in.`
+
+## 🤝 Connect with me
+
+<!-- TODO(owner): set a custom LinkedIn URL (linkedin.com/in/anastasiia-kosareva
+     or similar) and update the link below. The current handle "flexis-kivi" does
+     not match your name and reads as a stale placeholder to a recruiter. -->
+
 <a href="https://www.linkedin.com/in/flexis-kivi/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Anastasiia | LinkedIn" width="21px"/></a>
 </br>
 
 ## 🧠 Skills & Interests
 
-- 📊 Data Analytics & Visualization  
-- 🤖 Machine Learning & Statistical Modeling  
-- 🐍 Python, 🧮 Pandas, 📘 Scikit-learn, 🚀 XGBoost  
-- 💼 Data-driven Management Practices  
-- 🧹 Data Cleaning & Preprocessing  
-- 📈 Business Intelligence & Insights 
+- 📊 Data Analytics & Visualization
+- 🤖 Machine Learning & Statistical Modeling
+- 🐍 Python, 🧮 Pandas, 📘 Scikit-learn, 🚀 XGBoost
+- 💼 Data-driven Management Practices
+- 🧹 Data Cleaning & Preprocessing
+- 📈 Business Intelligence & Insights
 
 ## 📝 Data Analytics projects
 
-### [airbnb-berlin-munich-price-modeling](https://github.com/AnastasiiaX/airbnb-berlin-munich-price-modeling)
-Supervised learning models including XGBoost regression and Random Forest classification for Airbnb price prediction based on quarterly data from Berlin and Munich.
-
 ### [helsinki-services-and-demographics](https://github.com/AnastasiiaX/helsinki-services-and-demographics)
-A study on Helsinki's service availability and its impact on the demographics of different residential areas.
+How service availability across Helsinki's postal areas lines up with residents'
+income and education — and where the pattern breaks. Interactive choropleth of
+all 84 postal areas, plus district comparisons on daycare, retail and pharmacy
+access. **[Live map and charts →](https://anastasiiax.github.io/helsinki-services-and-demographics/)**
+
+### [airbnb-berlin-munich-price-modeling](https://github.com/AnastasiiaX/airbnb-berlin-munich-price-modeling)
+Predicting Airbnb listing prices in Berlin and Munich with XGBoost regression and
+Random Forest classification. Berlin turned out consistently more predictable
+than Munich across all three models tried, which is the result the write-up
+leads with.
 
 ### [NewYorkTimes_unsupervised_learning](https://github.com/AnastasiiaX/NewYorkTimes_unsupervised_learning)
-Topic modeling and clustering of The New York Times articles using unsupervised machine learning techniques like LDA and K-means to uncover hidden themes in news content.
+Sentiment analysis and hierarchical clustering of New York Times political
+coverage using zero-shot transformer classification (`facebook/bart-large-mnli`),
+VADER and K-means — comparing how the paper writes about Stubb, Scholz and Putin.
 
 ## 💻 Python Development projects
 
-### [slidemind](https://github.com/EmilSuuronen/slidemind)
-Electron and React application for searching PowerPoint and PDF files with AI assist.
-
 ### [study_to_sola](https://github.com/AnastasiiaX/study_to_sola)
-Automated Training Data Transfer Between StudyTube and SolaForce.
+Azure Functions integration syncing completed training records nightly between a
+learning platform and an HR system, replacing a manual data-entry step. Timer
+trigger, OAuth, incremental fetch with blob-stored checkpointing.
+
+## 👥 Team projects
+
+### [slidemind](https://github.com/EmilSuuronen/slidemind)
+Electron and React desktop application for searching PowerPoint and PDF files
+with AI assist. Built with a team; the repository is maintained under a
+collaborator's account.
+`TODO(owner): add one line on what you owned in this project.`

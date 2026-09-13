@@ -5,26 +5,16 @@ University of Applied Sciences**, where I specialised in the **ICT track**.
 My focus is **Data Analytics** and **Management** — how data-driven insight
 improves business decisions and operations.
 
-<!-- TODO(owner): confirm whether this is the PeopleCert ITIL Foundation
-     certification or a Metropolia course. If it is the formal certification,
-     restore: "I'm also **ITIL® certified**, demonstrating my understanding of IT
-     service management and process-driven business support." If it was
-     coursework, keep the line below as it stands. Do not leave both. -->
+I completed **ITIL service management** coursework and the accompanying exam at
+Metropolia, covering IT service management and process-driven business support.
+(This is Metropolia's course certificate rather than the PeopleCert ITIL®
+Foundation qualification.)
 
-I've completed **ITIL service management studies** at Metropolia, covering IT
-service management and process-driven business support.
-
-Working languages: English and Finnish.
-`TODO(owner): adjust this line to your actual level in each — and add Russian or
-any other language you work in.`
+Working languages: **English** and **Finnish**, both at professional level.
 
 ## 🤝 Connect with me
 
-<!-- TODO(owner): set a custom LinkedIn URL (linkedin.com/in/anastasiia-kosareva
-     or similar) and update the link below. The current handle "flexis-kivi" does
-     not match your name and reads as a stale placeholder to a recruiter. -->
-
-<a href="https://www.linkedin.com/in/flexis-kivi/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Anastasiia | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/anastasiia-kosareva/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Anastasiia | LinkedIn" width="21px"/></a>
 </br>
 
 ## 🧠 Skills & Interests
@@ -65,7 +55,13 @@ trigger, OAuth, incremental fetch with blob-stored checkpointing.
 ## 👥 Team projects
 
 ### [slidemind](https://github.com/EmilSuuronen/slidemind)
-Electron and React desktop application for searching PowerPoint and PDF files
-with AI assist. Built with a team; the repository is maintained under a
+Built for **HSY (Helsinki Region Environmental Services Authority)**: a desktop
+tool that scans an organisation's existing presentation material and flags
+reusable content before anyone writes something new. Electron and React, with the
+OpenAI API generating descriptions and content suggestions across `.ppt`, `.pptx`
+and `.pdf` files.
+
+**I led the team and the client relationship**, ran requirements gathering with
+HSY, and contributed to the implementation. The repository is maintained under a
 collaborator's account.
-`TODO(owner): add one line on what you owned in this project.`
+[Project site](https://emilsuuronen.github.io/slidemind-home/).

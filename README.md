@@ -7,7 +7,7 @@ improves business decisions and operations.
 
 I completed **ITIL service management** coursework and the accompanying exam at
 Metropolia, covering IT service management and process-driven business support.
-(This is Metropolia's course certificate rather than the PeopleCert ITIL®
+(This is Metropolia's course certificate, which is similar to PeopleCert ITIL®
 Foundation qualification.)
 
 Working languages: **English** and **Finnish**, both at professional level.
